@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Josue</h1>
+<h3 align="center">A passionate Finance, Business Intelligence & Data Analyst</h3>
 
-<!--
-**jharmentar/jharmentar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: jharmentar](https://img.shields.io/badge/-jharmentar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jharmentar/)](https://www.linkedin.com/in/jharmentar/)
+[![GitHub jharmentar](https://img.shields.io/github/followers/jharmentar?label=follow&style=social)](https://github.com/jharmentar)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Data Engineering**
+
+### 🧰 Skills: 
+
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
+[![ExcelL](https://img.shields.io/badge/Excel-217346)](#)
+
