@@ -12,6 +12,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF066?style=flat&logo=duckdb&logoColor=black)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![ExcelL](https://img.shields.io/badge/Excel-217346)](#)
 
