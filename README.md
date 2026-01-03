@@ -15,4 +15,5 @@
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF066?style=flat&logo=duckdb&logoColor=black)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![ExcelL](https://img.shields.io/badge/Excel-217346)](#)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
